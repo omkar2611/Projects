@@ -62,16 +62,16 @@ I am a Data Analyst who is motivated, teamwork-oriented, with good presentation 
 XYZ is a private equity firm in US. Due to remarkable growth in the Cab Industry in last few years and multiple key players in the market, it is planning for an investment in Cab industry.<br>
 **Objective:** Provide actionable insights to help XYZ firm in identifying the right company for making investment.
 
-### COVID-19 Analysis
+### [COVID-19 Analysis](https://github.com/omkar2611/Projects/tree/main/COVID-19%20Analysis)
 The COVID-19 epidemic, which began in early 2020, has affected every part of our work and lives and has changed everything.<br>
 **Objective:** Gain useful observations from WHO dataset and present it into a dashboard.
 
-### Financial Analytics & Dashboard 
+### [Financial Analytics & Dashboard](https://github.com/omkar2611/Projects/tree/main/Financial%20Analytics%20%20and%20Dashboard)
 
 
 
 ### Lego Analytics
-Lego is a household name across the world, supported by a diverse toy line, hit movies, and a series of successful video games.<br>  
+Lego is a household name across the world, supported by a diverse toy line, hit movies, and a series of successful video games.<br>
 **Objective:** Explore a key development in the history of Lego and answer the questions by plotting the graphs.
 
 ### Sales Data Exploration and Visualisation
