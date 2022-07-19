@@ -7,8 +7,8 @@ The COVID-19 epidemic, which began in early 2020, has affected every part of our
 
 ## Tech Stack
 
-**Visaualisation:** Tableau Desktop <br>
-**Database:** Microsoft SQL Server
+- **Visaualisation:** Tableau Desktop <br>
+- **Database:** Microsoft SQL Server
 
 
 ## Installation
@@ -17,13 +17,13 @@ The SQL can be run using Microsoft SQL Server <br>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">Microsoft SQL Installer</a>
 
 The tableau dashboards can be viewed directly on Tableau Public using the below link:
-https://public.tableau.com/shared/PDQQMGFNN?:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/COVID_Basic_Visualization/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+- [Dashboard 1](https://public.tableau.com/shared/PDQQMGFNN?:display_count=n&:origin=viz_share_link)
+- [Dashboard 2](https://public.tableau.com/views/COVID_Basic_Visualization/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Alternatively, the Tableau Desktop can be installed on local machine and the files ```.twb``` can be open to view the same results.
 
-<a href="https://public.tableau.com/en-us/s/download">Tableau Installer</a> <br>
-<a href="https://help.tableau.com/current/desktopdeploy/en-gb/desktop_deploy_download_and_install.htm">Tableau Installation Guide</a>
+- <a href="https://public.tableau.com/en-us/s/download">Tableau Installer</a> <br>
+- <a href="https://help.tableau.com/current/desktopdeploy/en-gb/desktop_deploy_download_and_install.htm">Tableau Installation Guide</a>
     
     
 ## Demo
