@@ -78,7 +78,7 @@ ABC firm receives more than 10,000 complaints each week about financial products
 **Objective:** Creation of dashboard which gives the overview of the financial complaints. 
 
 
-### Lego Analytics
+### [Lego Analytics](https://github.com/omkar2611/Projects/tree/main/Lego%20Analytics)
 Lego is a household name across the world, supported by a diverse toy line, hit movies, and a series of successful video games.<br>
 **Objective:** Explore a key development in the history of Lego and answer the questions by plotting the graphs.
 
