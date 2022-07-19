@@ -73,7 +73,7 @@ Alternatively, the Tableau Desktop can be installed on local machine and the fil
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) 
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)  
 
 
 ## Authors
