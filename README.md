@@ -65,7 +65,7 @@ I am a Data Analyst who is motivated, teamwork-oriented, with good presentation 
 
 ## Projects
 
-### [Cab Investment Project] (https://github.com/omkar2611/Projects/tree/main/Cab%20Investment%20Project)
+### [Cab Investment Project](https://github.com/omkar2611/Projects/tree/main/Cab%20Investment%20Project)
 XYZ is a private equity firm in US. Due to remarkable growth in the Cab Industry in last few years and multiple key players in the market, it is planning for an investment in Cab industry.<br>
 **Objective:** Provide actionable insights to help XYZ firm in identifying the right company for making investment.
 
